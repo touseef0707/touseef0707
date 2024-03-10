@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Studio app development.
 - 💞️ I’m looking to collaborate on app development.
 - 📫 How to reach me touseefahmed0707@gmail.com
-- 
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![HTML5](https://img.shields.io/badge/HTML-5-orange)

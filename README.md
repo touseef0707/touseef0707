@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Studio app development.
 - 💞️ I’m looking to collaborate on app or web development.
 - 📫 How to reach me touseefahmed0707@gmail.com
-- <p align="left" dir="auto"> 
+- <p align="left" dir="auto" style="background:#fff"> 
   <a href="https://aws.amazon.com" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 

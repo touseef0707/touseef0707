@@ -1,0 +1,20 @@
+repo_name: touseef0707/touseef0707
+report_id: d4c577e89b6d73f54e9807dc43e7ad55
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-18T06:24:56+00:00'
+requested_by: touseef0707
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/touseef0707/touseef0707
+  detection_source: Repo Metadata

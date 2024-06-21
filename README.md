@@ -36,6 +36,9 @@
 <a href="https://www.python.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
+<a href="https://flask.palletsprojects.com/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/f78f7b57e37603ded4039a2b980a72dcafd838c69f171a46455da797b9d260ab/68747470733a2f2f696d672e737461636b73686172652e696f2f736572766963652f313030312f64656661756c745f366431303933313562363031303836323862376364336531353962383436343563333165663065322e706e67" alt="Flask" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
 <a href="https://www.mysql.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>

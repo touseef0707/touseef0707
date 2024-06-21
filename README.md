@@ -36,7 +36,9 @@
   <a href="https://expressjs.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
-
+<a href="https://www.java.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
 
   <a href="https://www.python.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%; background:#ffffff">
@@ -48,6 +50,9 @@
   <a href="https://www.sqlite.org/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/dfc13c38294c1ea3bc5354196797b1619fbf5f3abb65d6b5838643cfc3898caf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 
+  <a href="https://developer.android.com/studio" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
   <a href="https://tailwindcss.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 

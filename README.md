@@ -62,9 +62,6 @@
 <a href="https://www.netlify.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
-<a href="https://render.com/" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="40" height="40" style="max-width: 100%; background:#ffffff">
-</a>
 <a href="https://cloud.google.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>

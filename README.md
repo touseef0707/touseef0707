@@ -26,12 +26,25 @@
   <a href="https://www.mysql.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 
+  <a href="https://reactjs.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
   <a href="https://nodejs.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 
+
+  <a href="https://expressjs.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+
+
   <a href="https://www.python.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 
+  <a href="https://www.mongodb.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+
   <a href="https://www.sqlite.org/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/dfc13c38294c1ea3bc5354196797b1619fbf5f3abb65d6b5838643cfc3898caf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" style="max-width: 100%; background:#ffffff">
   </a> 

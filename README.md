@@ -59,4 +59,47 @@
 <a href="https://developer.android.com/studio" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
+<a href="https://fontawesome.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fontawesome/fontawesome-original.svg" alt="Font Awesome" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.netlify.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://render.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://cloud.google.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg" alt="MS Office Suite" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.canva.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://stripe.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" alt="Stripe" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://code.visualstudio.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.jetbrains.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+
+### Extras:
+
+<a href="https://leetcode.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.hackerrank.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://stackoverflow.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.youtube.com/learning" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube Learning" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+
 

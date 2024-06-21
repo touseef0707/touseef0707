@@ -74,9 +74,6 @@
 <a href="https://stackoverflow.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
-<a href="https://www.openai.com/chatgpt" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robot/robot-original.svg" alt="ChatGPT" width="40" height="40" style="max-width: 100%; background:#ffffff">
-</a>
 
 ### Design Tools:
 <a href="https://www.figma.com/" rel="nofollow">

@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Touseef Ahmed
 - 👀 I’m interested in developing dependable applications for users.
-- 🌱 I’m currently learning Android Studio app development.
 - 💞️ I’m looking to collaborate on app or web development.
 - 📫 How to reach me touseefahmed0707@gmail.com
-- <p align="left" dir="auto"> 
- Certainly! I've rearranged and grouped the icons based on their categories:
 
 ### Frontend Development:
 <a href="https://getbootstrap.com" rel="nofollow">
@@ -56,14 +53,10 @@
 <a href="https://git-scm.com/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
+<a href="https://github.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
 <a href="https://developer.android.com/studio" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
 
-
-
-
-<!---
-touseef0707/touseef0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

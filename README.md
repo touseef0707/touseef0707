@@ -31,9 +31,6 @@
 <a href="https://nodejs.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
-<a href="https://expressjs.com/" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
-</a>
 <a href="https://www.java.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>

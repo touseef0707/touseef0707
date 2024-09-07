@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
 <a href="https://tailwindcss.com/" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="tailwind" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="tailwind" width="40" height="40" style="max-width: 100%;">
 </a>
  
 <a href="https://www.w3schools.com/css/" rel="nofollow">

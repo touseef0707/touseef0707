@@ -22,6 +22,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
 
 ### Backend Development:
 <a href="https://nodejs.org" rel="nofollow">

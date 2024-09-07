@@ -40,9 +40,6 @@
 <a href="https://www.python.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
-<a href="https://flask.palletsprojects.com/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/f78f7b57e37603ded4039a2b980a72dcafd838c69f171a46455da797b9d260ab/68747470733a2f2f696d672e737461636b73686172652e696f2f736572766963652f313030312f64656661756c745f366431303933313562363031303836323862376364336531353962383436343563333165663065322e706e67" alt="Flask" width="40" height="40" style="max-width: 100%; background:#ffffff">
-</a>
 <a href="https://www.mysql.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
@@ -50,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
 <a href="https://firebase.google.com/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/3e5344a2965e786497ceb575ad67d2c64d412bb9683da05791edf424a0e40734/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" width="40" height="40" style="max-width: 100%; background:#ffffff">
+  <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" width="40" height="40" style="max-width: 100%; background:#ffffff">
 </a>
 
 ### Tools and Platforms:

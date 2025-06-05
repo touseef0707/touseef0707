@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Touseef Ahmed
-- 👀 I’m interested in developing dependable applications for users.
-- 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me touseefahmed0707@gmail.com
+👋 Hi, I’m Touseef Ahmed — a versatile and results-driven Full Stack Developer with over 2+ years of experience building scalable, user-focused web applications.
+
+👀 I’m passionate about developing dependable digital solutions and enjoy leveraging AI technologies to streamline workflows and enhance user experiences.
+
+💻 Proficient in both front-end and back-end development, I'm a fast learner who thrives on adapting to new technologies and continuously improving development processes.
+
+💞️ I’m looking to collaborate on innovative projects and solutions.
+
+📫 You can reach me at touseefahmed0707@gmail.com
 
 ### Frontend Development:
 <a href="https://getbootstrap.com" rel="nofollow">

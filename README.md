@@ -9,8 +9,8 @@
 📫 You can reach me at touseefahmed0707@gmail.com
 
 ### Frontend Development:
-<a href="https://getbootstrap.com" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="max-width: 100%; background:#ffffff">
+<a href="https://nextjs.org/" rel="nofollow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" style="max-width: 100%; background:#ffffff">
@@ -24,6 +24,9 @@
 </a>
 <a href="https://www.w3.org/html/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://getbootstrap.com" rel="nofollow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%; background:#ffffff">
@@ -55,6 +58,9 @@
 ### Tools and Platforms:
 <a href="https://developer.android.com/studio" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40" style="max-width: 100%; background:#ffffff">
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </a>
 <a href="https://www.netlify.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="40" height="40" style="max-width: 100%; background:#ffffff">

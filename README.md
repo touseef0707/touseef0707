@@ -1,4 +1,4 @@
-👋 Hi, I’m Touseef Ahmed — a versatile and results-driven Full Stack Developer with over 2+ years of experience building scalable, user-focused web applications.
+👋 Hi, I’m Touseef Ahmed — a versatile and results-driven Full Stack Developer with over 3 years of experience building scalable, user-focused web applications.
 
 👀 I’m passionate about developing dependable digital solutions and enjoy leveraging AI technologies to streamline workflows and enhance user experiences.
 

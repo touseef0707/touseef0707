@@ -2,11 +2,13 @@
 
 👀 I’m passionate about developing dependable digital solutions and enjoy leveraging AI technologies to streamline workflows and enhance user experiences.
 
+☁️ I’m also focused on cloud computing, particularly using AWS services to build secure, scalable, and highly available web applications.
+
 💻 Proficient in both front-end and back-end development, I'm a fast learner who thrives on adapting to new technologies and continuously improving development processes.
 
 💞️ I’m looking to collaborate on innovative projects and solutions.
 
-📫 You can reach me at touseefahmed0707@gmail.com
+📫 You can reach me at: touseefahmed0707@gmail.com
 
 ### Frontend Development:
 <a href="https://nextjs.org/" rel="nofollow">
